@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "212793368058",
+    "firebase_url": "https://panico-6cb3c-default-rtdb.firebaseio.com",
+    "project_id": "panico-6cb3c",
+    "storage_bucket": "panico-6cb3c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212793368058:android:e9029d75a71d58a5cf9843",
+        "android_client_info": {
+          "package_name": "com.example.alertan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212793368058-55779rutmkm394bg6ipss3188d0935fq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alertan",
+            "certificate_hash": "806e11434c0ef41dc5f4840bb208fa70631d5907"
+          }
+        },
+        {
+          "client_id": "212793368058-3ro210sgrtu3sq9g9eo9et7kt1i0dnak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfFx-87XG8D3JM7darzzDiObmqf1k5i_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212793368058-3ro210sgrtu3sq9g9eo9et7kt1i0dnak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
